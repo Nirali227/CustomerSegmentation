@@ -1,4 +1,4 @@
-# CustomerSegmentation
+# Customer Segmentation
 
 ### Welcome to the Customer Segmentation Project. 
 
