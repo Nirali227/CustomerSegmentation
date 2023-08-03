@@ -34,7 +34,7 @@ K-means gives the best result under the following conditions:
 * Data distribution is not skewed.
 * Data is standardized.
 * The data is highly skewed, therefore I will perform log transformations to reduce the skewness of each variable and I standardized the data.
-Finding the optimal number of clusters
+* Finding the optimal number of clusters
 ![image](https://github.com/Nirali227/CustomerSegmentation/assets/76995087/15c87901-50cc-4e6c-8da7-57faf6e690ac)
 
 
