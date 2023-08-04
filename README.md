@@ -37,6 +37,14 @@ K-means gives the best result under the following conditions:
 * Finding the optimal number of clusters
 ![image](https://github.com/Nirali227/CustomerSegmentation/assets/76995087/15c87901-50cc-4e6c-8da7-57faf6e690ac)
 
+#### Conclusion
+* Cluster 0: This cluster has the largest number of customers (14375) and the highest total sales (354.20). The average cart value for this cluster is 23.61, and customers in this group tend to have an average of 11.86 items per cart. This indicates that Cluster 0 represents a large segment of customers who make relatively smaller purchases per transaction.
+
+* Cluster 1: This cluster has fewer customers (809) compared to Cluster 0, and its total sales are relatively low (4.01). The average cart value for this group is 3.00, and customers in this cluster tend to have an average of 15.94 items per cart. This suggests that Cluster 1 represents a smaller group of customers who make low-value purchases but tend to buy more items per transaction.
+
+* Cluster 2: This cluster has more customers (1832) than Cluster 1 but fewer than Cluster 0. However, it has the second-highest total sales (127.77) among the three clusters. The average cart value for this cluster is 34.56, and customers in this group tend to have an average of 27.37 items per cart. This indicates that Cluster 2 represents a group of customers who make higher-value purchases and tend to buy a significant number of items per transaction.
+
+
 
 
 
